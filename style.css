@@ -1,0 +1,25 @@
+	/* css for new website*/
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	h1 {
+		color: blue;
+		padding: 5px;
+	}
+	div {
+		width: 50%;
+		float: left;
+	}
+	h2, p, ul {
+		color: green;
+	}
+	img {
+		width: 100%;
+	}
+	p.paragraph.intro.featured {
+		padding: 20px;
+	}
+	nav ul li {
+		background-color: yellow;
+	}
